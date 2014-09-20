@@ -1,0 +1,52 @@
+Hanabi repose sur un système coopératif où les joueurs font équipe pour        
+atteindre leur but. L'objectif ici est de fabriquer 6 feux d'artifices         
+de chaque couleur blanc, jaune, bleu, rouge, vert et multicouleurs. Pour cela, 
+ils doivent constituer des suites croissantes de cartes de 1 à 5 de même       
+couleurs. Chaque joueur possède 5 cartes et l'équipe, 8 jetons bleus.          
+Il y a également 3 jetons rouges dans le jeu. Le point stratégique du jeu      
+consiste au fait que les joueurs ne voient pas leurs propres cartes mais       
+seulement celles de leurs coéquipiers. A chaque tour, le joueur a le choix     
+entre 3 options : donner une information à l'un de ses coéquipiers à propos    
+des cartes qu'il possède, défausser une de ses cartes la retirer du jeu, ou    
+jouer une de ses cartes sur le plateau de jeu.                                 
+
+- Donner une information : pour cela, le joueur doit dépenser un jeton bleu de 
+son équipe. Il pourra alors donner une information à l'un des autres joueurs   
+sur les cartes de sa main : soit sur une couleur, soit sur une valeur.         
+Le joueur désignera la position à laquelle se trouvent les cartes dans la main 
+de son coéquipier. Exemple : << Tu as deux cartes jaunes en position 1 et 4 >> 
+ou en encore << Tu as 3 cartes de valeur 2 en position 1, 4 et 5 >>.           
+Attention, l'information doit être complète : si le joueur a deux cartes de    
+même couleur, l'informateur doit désigner les 2 cartes et pas seulement une.   
+Cette action ne peut pas être effectuée si il n'y a pas de jetons bleus à      
+disposition de l'équipe.                                                       
+
+- Défausser une carte : cette action ne peut être effectuée que si l'équipe ne 
+possède pas tous ses jetons bleus. Elle consiste à retirer une carte de sa     
+main sans la jouer elle est définitivement perdue puis piocher une nouvelle    
+carte. Cette action permet de remettre un jeton bleu au service de l'équipe.   
+
+- Jouer une carte : le joueur choisit une carte de sa main et la pose sur      
+le plateau de jeu. Si cette carte commence ou complète un feu d'artifice,      
+elle y est ajoutée. Sinon, la carte est défaussée et un jeton rouge est ajouté 
+à l'équipe. Dans tous les cas, le joueur pioche une nouvelle carte. Quand un   
+feu d'artifice est complété, un bonus d'un jeton bleu est accordé.             
+
+Fin de partie : La partie se termine dans les cas suivants :                   
+
+- Si l'équipe reçoit un 3ème jeton rouge, la partie prend fin immédiatement    
+- Si l'équipe réussit à constituer les 6 feux d'artifices, la partie prend fin 
+- Si la pioche est vide, un dernier tour est joué puis le score comptabilisé   
+
+Le score : 1 point est accordé par carte posée sur un feu d'artifice 5 points  
+donc pour un feu complet. Pour savoir si votre spectacle de feu d'artifice     
+est apprécié par le public, voici le tableau des scores :                      
+
+- 0-5 points : Spectacle horrible, la foule vous hue.                          
+- 6-10 points : Médiocre, à peine quelques applaudissements.                   
+- 11-15 points : Honorable, mais ne restera pas dans les mémoires...           
+- 16-20 points : Excellent, ravit la foule.                                    
+- 21-24 points : Extraordinaire, restera gravée dans les mémoires !            
+- 25-29pts : Légendaire, petits et grands sans voix, des étoiles dans les yeux 
+- 30 points : Divin, laisse en émoi le ciel lui-même                           
+
